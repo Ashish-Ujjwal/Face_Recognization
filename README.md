@@ -4,7 +4,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/Ashish-Ujjwal/Face_Recognization/blob/main/Image/z%20(6).png" alt="project-screenshot" width="700" height="400/">
+<img src="https://github.com/Ashish-Ujjwal/Face_Recognization/blob/main/Image/z%20(6).png" alt="project-screenshot" width="1000" height="600/">
 
   
   
